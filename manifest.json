@@ -1,0 +1,10 @@
+{
+    "name": "ZenDeskGenie",
+    "description": "An extension that allows for integrations with Zendesk and AI or other tools without API access from Zendesk",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "ZenDeskGenie.html",
+      "default_icon": "ZenDeskGenie_logo.png"
+    }
+  }
